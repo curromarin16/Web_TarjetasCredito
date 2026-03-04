@@ -1,0 +1,91 @@
+body {
+    background-color: #0d0b16; /* negro azulado */
+    color: #e0d7ff;
+}
+
+/* NAVBAR */
+.navbar {
+    background-color: #1a132d !important;
+}
+
+/* LINKS NAV */
+.navbar .nav-link {
+    color: #c7b6ff !important;
+}
+
+.navbar .nav-link:hover {
+    color: #ffffff !important;
+}
+
+/* TABLA */
+table {
+    background-color: #12001f !important;
+    color: #e6dbff;
+}
+
+.table th {
+    background-color: #2a004d !important;
+    color: #ffffff;
+}
+
+.table td {
+    background-color: #1a002b !important;
+    color: #e6dbff;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #3b0764 !important;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #1f0033 !important;
+}
+
+
+.table thead {
+    background-color: #2b1f47;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #221a3a;
+}
+
+/* BOTONES */
+.btn-primary {
+    background-color: #6f42c1;
+    border-color: #6f42c1;
+}
+
+.btn-primary:hover {
+    background-color: #59339d;
+}
+
+.btn-success {
+    background-color: #9b5de5;
+    border-color: #9b5de5;
+}
+
+.btn-secondary {
+    background-color: #3a2c6d;
+}
+
+/* ALERTAS */
+.alert-success {
+    background-color: #2f1f4f;
+    color: #d6c7ff;
+}
+
+.alert-danger {
+    background-color: #4a1f2f;
+    color: #ffd6d6;
+}
+.card {
+    background-color: #1a002b;
+    color: #e6dbff;
+    border: 1px solid #3b0764;
+}
+
+.card-header {
+    background-color: #2a004d;
+    color: white;
+}

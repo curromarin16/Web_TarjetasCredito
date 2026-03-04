@@ -1,0 +1,51 @@
+[
+    {
+        "nombre": "Francisco Marin Murcia",
+        "nif": "77678456A",
+        "pin": "1234",
+        "limite": 1000,
+        "numero_tarjeta": "4111111111111111",
+        "mes_caducidad": 2,
+        "anio_caducidad": 2031,
+        "cvv": 806,
+        "movimientos": [
+            {
+                "cantidad": 30.0,
+                "concepto": "Subscripciones",
+                "fecha": "2026-02-07 12:44:24"
+            },
+            {
+                "cantidad": 10.0,
+                "concepto": "Bizum",
+                "fecha": "2026-02-07 12:44:36"
+            },
+            {
+                "cantidad": 15.0,
+                "concepto": "Hamburguesas",
+                "fecha": "2026-02-07 12:45:12"
+            }
+        ]
+    },
+    {
+        "nombre": "Jesus Martin Hurtado",
+        "nif": "77678456B",
+        "pin": "1234",
+        "limite": 1000,
+        "numero_tarjeta": "4000056655665556",
+        "mes_caducidad": 2,
+        "anio_caducidad": 2031,
+        "cvv": 397,
+        "movimientos": [
+            {
+                "cantidad": 100.0,
+                "concepto": "Mcdonalds",
+                "fecha": "2026-02-07 12:46:09"
+            },
+            {
+                "cantidad": 60.0,
+                "concepto": "Gasolina",
+                "fecha": "2026-02-07 12:46:24"
+            }
+        ]
+    }
+]
