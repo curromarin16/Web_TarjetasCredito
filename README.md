@@ -57,7 +57,7 @@ TarjetasCredito/
 3. Instala dependencias:
 
    ```bash
-   pip install flask
+   pip install -r requirements.txt
    ```
 
 ## Ejecución
